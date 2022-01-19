@@ -10,3 +10,5 @@ Standard SMC for a 2 and 3 DOF Planar Robots
 
 
 ![grab-landing-page](https://github.com/BedollaDavid/standardSMC/blob/main/2GDL.gif)
+
+Contains "pol3" and "pol5" functions from "Iván Maza 2001" for trajectory generation.
