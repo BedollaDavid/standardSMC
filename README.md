@@ -9,3 +9,4 @@ Standard SMC for a 2 and 3 DOF Planar Robots
 - A README.TXT file to run simulations on Matlab 2019b
 
 
+![grab-landing-page](https://https://github.com/BedollaDavid/standardSMC/blob/main/2GDL.gif)
